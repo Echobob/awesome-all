@@ -5,7 +5,7 @@ List of all projecting in the topic Awesome List with an indexed db that you can
 
 Q: How is this sorted?
 ---
-A: ~~By stars (Currently).~~ (Github topoic default)
+A: ~~By stars (Currently).~~ (Github topic default)
 
 Q: How do I get my awesome list added?
 ---
